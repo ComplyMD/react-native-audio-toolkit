@@ -2,7 +2,6 @@ package com.futurice.rctaudiotoolkit;
 
 import android.media.MediaRecorder;
 import android.os.Environment;
-import android.support.annotation.Nullable;
 import android.util.Log;
 import android.net.Uri;
 import android.webkit.URLUtil;
